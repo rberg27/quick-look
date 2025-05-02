@@ -1,1 +1,6 @@
 *.pth 
+*.csv
+*.zip
+*.npz
+*.npy
+*.ubyte.gz
